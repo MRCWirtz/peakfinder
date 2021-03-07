@@ -1,3 +1,8 @@
+# datapeak repository relevant ignores
+data/*.geojson
+data/*.osm
+data/*bak.pkl
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
